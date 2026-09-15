@@ -6,7 +6,7 @@ $\color{#ff1493}{\text{⊹˚₊ wip ₊˚⊹}}$
 <br>
 
 
-<img src="Banner.png" width="100%">
+<img src="BannerOchako.png" width="100%">
 <br>
 
 $\color{#ff1493}{\text{𝓚𝓲𝓷}}$
