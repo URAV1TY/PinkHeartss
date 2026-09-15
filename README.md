@@ -1,7 +1,7 @@
 
 <div align="center">
 
-$\color{#ff1493}{\text{⊹˚₊ 𝓟𝓲𝓷𝓴 𝓸𝓯 𝓗𝓮𝓪𝓻𝓽𝓼 ₊˚⊹}}$
+$\color{#ff1493}{\text{⊹˚₊ wip ₊˚⊹}}$
 
 <br>
 
